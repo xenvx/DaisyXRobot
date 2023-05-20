@@ -89,7 +89,7 @@ The Gojo Satoru is a powerful Group Management bot with awesome plugins and feat
 -------
 
 ## Deploy To Railway
-[![DEPLOY](https://railway.app/button.svg)](https://railway.app)
+[![DEPLOY](https://railway.app/button.svg)](https://railway.app/deploy?template=https://github.com/Soul-king7.git)
 ### How To Deploy On Railway
 *  **Make Sure You have an github account which is minimum 30 days old.**
 * Fork the repo by clicking [here](https://github.com/Gojo-Bots/Gojo_Satoru/fork)
